@@ -1,3 +1,5 @@
+# Friar Greg
+
 - 👋 Hi, I’m @friargregarious
 - 👀 I’m interested in blockchain and daps
 - 🌱 I’m currently learning go, solidity and furthering my python expertise
