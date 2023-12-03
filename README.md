@@ -10,7 +10,9 @@ I'm competeing with some buddies on this [leaderboard](https://adventofcode.com/
 
 Their AoC repositories are [morrick](https://github.com/morrick/Advent-of-code) and [rjhelms](https://github.com/rjhelms/AoC2022).
 
-[Check out my python repository of code](https://github.com/friargregarious/adventofcode)
+[Check out my python repository of code](https://github.com/friargregarious/Advent-of-Code)
+
+
 
 friargregarious/friargregarious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
